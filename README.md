@@ -8,16 +8,16 @@ Real-time systems are computer systems that monitor, respond to, or control an e
 
 Applications:-
 
--vehicle systems for automobiles, subways, aircraft, railways, and ships
--traffic control for highways, airspace, railway tracks, and shipping lanes
--process control for power plants, chemical plants, and consumer products such as soft drinks and beer
--medical systems for radiation therapy, patient monitoring, and defibrillation
--military uses such as firing weapons, tracking, and command and control
--manufacturing systems with robots
--telephone, radio, and satellite communications
--computer games
--multimedia systems that provide text, graphic, audio, and video interfaces
--household systems for monitoring and controlling appliances
--building managers that control such entities as heat, lights, doors, and elevators
++vehicle systems for automobiles, subways, aircraft, railways, and ships
++traffic control for highways, airspace, railway tracks, and shipping lanes
++process control for power plants, chemical plants, and consumer products such as soft drinks and beer
++medical systems for radiation therapy, patient monitoring, and defibrillation
++military uses such as firing weapons, tracking, and command and control
++manufacturing systems with robots
++telephone, radio, and satellite communications
++computer games
++multimedia systems that provide text, graphic, audio, and video interfaces
++household systems for monitoring and controlling appliances
++building managers that control such entities as heat, lights, doors, and elevators
 
 Source:- http://www.cs.uni.edu
