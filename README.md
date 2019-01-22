@@ -7,7 +7,7 @@ Breif Description about Real-Time Embedded Systems
 Real-time systems are computer systems that monitor, respond to, or control an external environment. 
 This environment is connected to the computer system through sensors, actuators, and other input-output interfaces.
 
-Applications:-
+Applications:
 
 vehicle systems for automobiles, subways, aircraft, railways, and ships
 traffic control for highways, airspace, railway tracks, and shipping lanes
@@ -21,4 +21,4 @@ multimedia systems that provide text, graphic, audio, and video interfaces
 household systems for monitoring and controlling appliances
 building managers that control such entities as heat, lights, doors, and elevators
 
-Source:- http://www.cs.uni.edu
+Source: http://www.cs.uni.edu
