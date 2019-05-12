@@ -1,6 +1,7 @@
-# Real-Time-Embedded-Systems
-
-Projects and Lab Assignments of subject Real Time Embedded Systems taught by Professor Sam Siewert at UC Boulder College
+#Subject : Real-Time-Embedded-Systems  
+#Professor : Sam Siewert  
+#Term : Summer 18  
+#College : University of Colorado Boulder  
 
 Breif Description about Real-Time Embedded Systems
 
@@ -20,5 +21,30 @@ computer games
 multimedia systems that provide text, graphic, audio, and video interfaces
 household systems for monitoring and controlling appliances
 building managers that control such entities as heat, lights, doors, and elevators
+
+Assignments :
+
+There are 5 assignments in this repository and 1 project documentation which were completed during summer 18 for the course Real Time Embedded Systems.
+
+Concepts Learned :
+
+#Semaphores Implementation  
+#Mutex Implementation  
+#Deadlock check and Removing it  
+#Scheduling Techniques  
+#Multi Threading   
+#Rate Monotonic Scheduling Algorithm  
+#EDF, LLF Methods  
+#Priority Inversion  
+#Priority Ceiling Protocol  
+#Canny, Hough , Hough Elliptical Interactive methods  
+
+
+Hardwares Used :
+
+#R-Pi  
+#Camera C-270  
+#Jetson Board  
+
 
 Source: http://www.cs.uni.edu
