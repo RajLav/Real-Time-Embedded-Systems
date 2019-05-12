@@ -1,4 +1,4 @@
-Project : Time Lapse Video
+Project : Time Lapse Video  
 Author : Raj Lavingia
 
 This project was made in order to make a time lapse video in order to save time from continuous evaluation of a subject.
