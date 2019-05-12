@@ -2,10 +2,14 @@
 #Author : Raj Lavingia  
 #Term : Summer 18**  
 
+**Purpose : **
+
 This project was made in order to make a time lapse video in order to save time from continuous evaluation of a subject.
 
 **Time Lapse :** Time-lapse photography is a technique whereby the frequency at which film frames are captured is much more spread out than the frequency used to view the sequence.
 When played at normal speed, time appears to be moving faster and thus lapsing. [Wiki]
+
+**Implementation :**
 
 In this project with the help of R-Pi micro controller and Camera C270, I implemented the capture rates of 1Hz, 5Hz and 10Hz.
 
