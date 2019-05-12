@@ -1,6 +1,6 @@
 **#Project : Time Lapse Video  
-#Author : Raj Lavingia
-#Term : Summer 18**
+#Author : Raj Lavingia  
+#Term : Summer 18**  
 
 This project was made in order to make a time lapse video in order to save time from continuous evaluation of a subject.
 
@@ -20,10 +20,10 @@ of socket programming.
 
 The images which were stored into the R-pi were also being converted to Video in real time.
 
-**Concepts used :** multi threading, semaphores and mutex
+**Concepts used :** multi threading, semaphores and mutex  
 
-**Software :** OpenCV installed on R-Pi
+**Software :** OpenCV installed on R-Pi  
 
-**Process :** Image capture - Store - Video Made - Sent to laptop
+**Process :** Image capture - Store - Video Made - Sent to laptop  
 
-**Platform :** Linux
+**Platform :** Linux  
