@@ -1,14 +1,14 @@
-#Subject : Real-Time-Embedded-Systems  
+**#Subject : Real-Time-Embedded-Systems  
 #Professor : Sam Siewert  
 #Term : Summer 18  
-#College : University of Colorado Boulder  
+#College : University of Colorado Boulder**  
 
-Breif Description about Real-Time Embedded Systems
+**Breif Description about Real-Time Embedded Systems**
 
 Real-time systems are computer systems that monitor, respond to, or control an external environment. 
 This environment is connected to the computer system through sensors, actuators, and other input-output interfaces.
 
-Applications:
+**Applications:**
 
 vehicle systems for automobiles, subways, aircraft, railways, and ships
 traffic control for highways, airspace, railway tracks, and shipping lanes
@@ -22,11 +22,11 @@ multimedia systems that provide text, graphic, audio, and video interfaces
 household systems for monitoring and controlling appliances
 building managers that control such entities as heat, lights, doors, and elevators
 
-Assignments :
+**Assignments :**
 
 There are 5 assignments in this repository and 1 project documentation which were completed during summer 18 for the course Real Time Embedded Systems.
 
-Concepts Learned :
+**Concepts Learned :**
 
 #Semaphores Implementation  
 #Mutex Implementation  
@@ -40,11 +40,11 @@ Concepts Learned :
 #Canny, Hough , Hough Elliptical Interactive methods  
 
 
-Hardwares Used :
+**Hardwares Used :**
 
 #R-Pi  
 #Camera C-270  
 #Jetson Board  
 
 
-Source: http://www.cs.uni.edu
+**Source: http://www.cs.uni.edu**
