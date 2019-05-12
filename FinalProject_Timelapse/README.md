@@ -2,7 +2,7 @@
 #Author : Raj Lavingia  
 #Term : Summer 18**  
 
-**Purpose : **
+**Purpose :**
 
 This project was made in order to make a time lapse video in order to save time from continuous evaluation of a subject.
 
